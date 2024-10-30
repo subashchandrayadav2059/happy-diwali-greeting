@@ -1,2 +1,2 @@
 # happy-diwali-greeting
-it looking good but not it not responsive
+it looking good but it not responsive
